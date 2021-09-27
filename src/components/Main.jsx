@@ -25,8 +25,9 @@ const Main = () => {
       <section className="extern-links-section">
         links a sitios externos
       </section>
+      
     </main>
-  ;
+  )
 };
 
 export default Main;
