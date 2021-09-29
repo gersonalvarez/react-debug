@@ -1,0 +1,28 @@
+.logosCineAr img {
+    height: 40px;
+    margin: 40px;
+  }
+  
+  .logosCineAr ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .DDA p {
+    color: white;
+    font-size: 12px;
+  }
+  
+  .fLogos ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .parte2 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .fLogos img {
+    margin: 1rem;
+  }

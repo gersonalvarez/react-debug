@@ -11,6 +11,7 @@ const redesSociales = [
     srcDelIcono: "./assets/itwitter.png",
   },
   {
+
     textoAlternativo: "Icono de Instagram",
     srcDelIcono: "./assets/iinstagram.png",
   },
