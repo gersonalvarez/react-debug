@@ -8,7 +8,7 @@
     justify-content: center;
   }
   
-  .DDA p {
+  .info p {
     color: white;
     font-size: 12px;
   }
@@ -21,6 +21,7 @@
   .parte2 {
     display: flex;
     justify-content: space-between;
+    align-items: center ;
   }
   
   .fLogos img {

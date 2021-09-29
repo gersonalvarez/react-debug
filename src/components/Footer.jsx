@@ -53,11 +53,10 @@ const PieDePagina = () => {
         <ul>{transformarLogos}</ul>
       </div>
       <div className="parte2">
-        <div className="DDA">
+        <div className="info">
           <p>
-            Todos los derechos reservados 2003-2021. República Argentina. INCAA
-          </p>
-          <p>Lima 319; Código Postal: C1073AAG, CABA; República Argentina.</p>
+            Todos los derechos reservados 2003-2021. República Argentina. INCAA <br/>
+         Lima 319; Código Postal: C1073AAG, CABA; República Argentina.</p>
         </div>
         <div className="fLogos">
           <ul>{transformarEndLogos}</ul>
